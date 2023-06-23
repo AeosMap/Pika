@@ -1,5 +1,5 @@
 # Pikachu
-Website: [Pika Party](https://aeosmap.github.io/Theia/)
+Website: [Pika Party](https://aeosmap.github.io/Pika/)
 <br>
 Standard Map:  [Theia](https://aeosmap.github.io/Theia/)
 <br>
